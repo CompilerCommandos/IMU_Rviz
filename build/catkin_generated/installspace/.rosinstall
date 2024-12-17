@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/minhson/ros_arduino_ws/install/setup.sh
